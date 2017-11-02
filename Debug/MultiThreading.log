@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\projects\multithreading\multithreading\source.cpp(36): warning C4101: 'critical': unreferenced local variable
+e:\projects\multithreading\multithreading\source.cpp(54): warning C4101: 'critical': unreferenced local variable
+  MultiThreading.vcxproj -> E:\Projects\MultiThreading\Debug\MultiThreading.exe
+  MultiThreading.vcxproj -> E:\Projects\MultiThreading\Debug\MultiThreading.pdb (Full PDB)

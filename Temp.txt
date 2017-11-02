@@ -1,0 +1,66 @@
+0
+Decrementing Counter is4221875978
+65196213
+Decrementing Counter is2521272680
+1577929892
+Decrementing Counter is1041188727
+2895004882
+Decrementing Counter is866464463
+3050113170
+Decrementing Counter is804087711
+3104960008
+Decrementing Counter is746950558
+3155824831
+Decrementing Counter is693209422
+3203766386
+Decrementing Counter is647647880
+3244276378
+Decrementing Counter is601348722
+3285496662
+Decrementing Counter is558009789
+3324013759
+Decrementing Counter is509601031
+3366953707
+Decrementing Counter is460338165
+3410716849
+Decrementing Counter is417098533
+3449124460
+Decrementing Counter is366305779
+3493967665
+Decrementing Counter is318747572
+3535938640
+Decrementing Counter is272909990
+3578319001
+Decrementing Counter is225540395
+3618828990
+Decrementing Counter is179954121
+3659114880
+Decrementing Counter is126590132
+3706424602
+Decrementing Counter is75077914
+3752456751
+Decrementing Counter is1
+4281288470
+Decrementing Counter is1
+4294967295
+Decrementing Counter is1
+4294967295
+Decrementing Counter is1
+4294967295
+Decrementing Counter is1
+4294967295
+Decrementing Counter is1
+4294967295
+Decrementing Counter is1
+4294967295
+Decrementing Counter is1
+4294967295
+Decrementing Counter is1
+4294967295
+Decrementing Counter is1
+4294967295
+Decrementing Counter is1
+4294967295
+Decrementing Counter is1
+4294967295
+Decrementing Counter is1
